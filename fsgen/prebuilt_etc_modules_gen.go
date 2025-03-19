@@ -216,7 +216,6 @@ var (
 		"system":              etc.PrebuiltSystemFactory,
 		"res":                 etc.PrebuiltResFactory,
 		"rfs":                 etc.PrebuiltRfsFactory,
-		"tee":                 etc.PrebuiltTeeFactory,
 		"tts":                 etc.PrebuiltVoicepackFactory,
 		"tvconfig":            etc.PrebuiltTvConfigFactory,
 		"tvservice":           etc.PrebuiltTvServiceFactory,
